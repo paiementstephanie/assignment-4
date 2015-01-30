@@ -11,6 +11,7 @@ h1,h2,h3 {
 ol{
 	list-style-type:none;
 	padding:0;
+	text-align: center;
 }
 
 body{
@@ -124,4 +125,8 @@ ol a {
 	color: white;
 	text-decoration: none;
 	border-radius: 10px;
+}
+
+img {
+	width: 100%;
 }
