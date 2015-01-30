@@ -127,6 +127,10 @@ ol a {
 	border-radius: 10px;
 }
 
+figcaption {
+	text-align: center;
+}
+
 img {
 	width: 100%;
 }
