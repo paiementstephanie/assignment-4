@@ -107,17 +107,6 @@ footer {
 	padding: 0.5em 0.75em;
 }
 
-nav {
-	background-color: #703838;
-	text-align: center;
-}
-
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-nav li {
-	display: inline-block;
+header {
+	background-color: #79756f;
 }
