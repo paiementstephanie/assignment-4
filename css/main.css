@@ -114,3 +114,11 @@ header {
 ol li {
 display: inline-block;
 }
+
+ol a {
+	background-color: #713837;
+	padding: 0.5rem 0.75rem;
+	color: white;
+	text decoration: none;
+	border-radius: 10px;
+}
