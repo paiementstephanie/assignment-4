@@ -100,4 +100,6 @@ figure {
 
 footer {
 	background-color: #79756f;
+	list-style-type: bullet;
+	padding: 0.5em 0.75em;
 }
