@@ -1,0 +1,94 @@
+html {
+	background-color: #dbd6cf;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+	font-family: 'Bevan', cursive;
+	line-height: 1.5;
+}
+
+ol{
+	list-style-type:none;
+	padding:0;
+}
+
+body{
+	font-family: 'Georgia', sans-serif;
+
+}
+
+.plan{
+	color: #79756f;
+}
+
+.intro{
+	color:#79756f;
+}
+
+.terre{
+	color:#79756f;
+}
+
+.mars{
+	color:#79756f;
+}
+
+.venus{
+	color:#79756f;
+}
+
+.sour{
+	color:#79756f;
+}
+
+a{
+	color:#704c84;
+}
+
+a:hover{
+	color:#f26f51;
+}
+
+dt{
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.celest{
+	color:#79756f;
+}
+
+.round{
+	color:#79756f;
+}
+
+.neil{
+	 color:#79756f;
+	 text-align:right;
+}
+
+.comp{
+	font-size:0.5rem;
+	font-style:italic;
+	font-family: 'Georgia', sans-serif;
+}
+
+.real{
+		font-size:0.5rem;
+	font-style:italic;
+	font-family: 'Georgia', sans-serif;
+}
+
+blockquote{
+	text-align:center;
+	font-size:1.5rem;
+	font-style:italic;
+}
+
+span {
+	color:#79756f;
+	font-weight:bold;
+}
+
+
