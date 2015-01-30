@@ -91,4 +91,7 @@ span {
 	font-weight:bold;
 }
 
-
+figure {
+	border: 3px solid #bcb9b2;
+	border-radius: 4px;
+}
