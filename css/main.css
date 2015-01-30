@@ -39,7 +39,7 @@ body{
 }
 
 .sour{
-	color:#79756f;
+	color:#dbd6cf;
 }
 
 a{
@@ -96,4 +96,8 @@ figure {
 	padding: 0.5em 0.75em;
 	border: 3px solid #bcb9b2;
 	border-radius: 4px;
+}
+
+footer {
+	background-color: #79756f;
 }
