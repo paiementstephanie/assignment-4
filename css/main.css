@@ -110,3 +110,7 @@ footer {
 header {
 	background-color: #79756f;
 }
+
+ol li {
+display: inline-block;
+}
